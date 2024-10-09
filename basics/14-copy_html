@@ -1,2 +1,2 @@
 #!/bin/bash
-find /basics -name "*.html" -exec cp {} .. /basics
+cp -u *.html ../
