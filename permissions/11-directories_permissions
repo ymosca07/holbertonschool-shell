@@ -1,2 +1,2 @@
 #!/bin/bash
-find .. / .. / .. /basics/permissions -type d -exec chmod 111 {} +
+find .. / .. /permissions -type d -exec chmod 111 {} +
