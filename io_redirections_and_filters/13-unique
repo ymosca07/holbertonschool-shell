@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1lX | uniq -u
+cat list_1 | sort --ignore-case | uniq -u
